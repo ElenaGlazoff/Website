@@ -35,9 +35,9 @@ Ensure index.html also contains a link to tweets.html to facilitate smooth navig
 
 3.3.4. For this project, CSS Flexbox will be used to structure the layout. The desired layout should include the following elements in order:
 
-<header> content
-<article> content
-<aside> content
+header content
+article content
+aside content
 
 3.4. Implement a Smart Thumbnail Feature
 
