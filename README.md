@@ -11,6 +11,8 @@ Beginners learning web development, particularly HTML, CSS, and basic JavaScript
 
 ##Important. This website must be built with only HTML/CSS/JavaScript. No NodeJS, React, VueJS, Bootstrap, etc.
 
+##Website's address: https://elenaglazoff.github.io/Website/ 
+
 ##Purpose and Requirements
 
 #Develop an Engaging Homepage
