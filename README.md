@@ -32,6 +32,7 @@ Ensure index.html also contains a link to tweets.html to facilitate smooth navig
 <link href="styles.css" rel="stylesheet"> 
 
 3.3.3. The school.css file is hosted externally and cannot be modified.
+
 3.3.4. For this project, CSS Flexbox will be used to structure the layout. The desired layout should include the following elements in order:
 
 <header> content
