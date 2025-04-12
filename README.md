@@ -11,6 +11,7 @@ This website must be built with only HTML/CSS/JavaScript. No NodeJS, React, VueJ
 3. Purpose and Requirements
 
 3.1. Develop an Engaging Homepage
+
 3.1.1. Create a file named index.html to serve as the main landing page of your website. This page should include the following elements:
 
 At least four paragraphs of meaningful content.
@@ -18,6 +19,7 @@ Proper headings using HTML tags h1, h2, and h3 to create a clear content hierarc
 Clickable image that links to any external URL of your choice.
 
 3.2.  Create a Secondary Page: tweets.html
+
 3.2.1. Design a complementary page titled tweets.html, which may feature any content you choose. However, the following requirements must be met:
 
 Embed at least one tweet using Twitter’s official embed code.
@@ -25,6 +27,7 @@ Include a link back to index.html to enable users to return to the homepage.
 Ensure index.html also contains a link to tweets.html to facilitate smooth navigation.
 
 3.3. Set Up Styling with CSS
+
 3.3.1 Create an empty stylesheet file named styles.css.
 3.3.2. In each of your HTML files, add those two lines within the <head> tag:
 
