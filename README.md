@@ -56,7 +56,7 @@ Successfully created a responsive, multi-page website consisting of index.html a
 Implemented semantic HTML structure using h1, h2, h3 and h4 tags to ensure clear content hierarchy.
 Embedded clickable images and interactive content to enhance user engagement.
 Integrated social media elements, including: An embedded tweet using Twitter's official embed code, Social sharing icons for Facebook and Twitter.
-Applied external and custom CSS styles, including Flexbox, to achieve a clean and organized layout with <header>, <article>, and <aside> sections.
+Applied external and custom CSS styles, including Flexbox, to achieve a clean and organized layout with header, article, and aside sections.
 Developed a thumbnail feature that allows users to click and enlarge images for a better visual experience.
 Enabled user interaction through the addition of a Disqus comment section.
 Ensured full mobile responsiveness, confirming that the site functions smoothly on smartphones and tablets.
