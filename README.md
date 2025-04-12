@@ -13,11 +13,9 @@ This website must be built with only HTML/CSS/JavaScript. No NodeJS, React, VueJ
 1. Develop an Engaging Homepage
 1.1 Create a file named index.html to serve as the main landing page of your website. This page should include the following elements:
 
-- At least four paragraphs of meaningful content.
-
-- Proper headings using HTML tags <h1>, <h2>, and <h3> to create a clear content hierarchy.
-
--  clickable image that links to any external URL of your choice.
+At least four paragraphs of meaningful content.
+Proper headings using HTML tags <h1>, <h2>, and <h3> to create a clear content hierarchy.
+Clickable image that links to any external URL of your choice.
 
 2. Create a Secondary Page: tweets.html
 2.1 Design a complementary page titled tweets.html, which may feature any content you choose. However, the following requirements must be met:
