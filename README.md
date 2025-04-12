@@ -1,6 +1,6 @@
 ##Project: "Create Your Own Website"
 
-This project is part of the DevelopHer 2025 program by Holberton School.
+This project is part of a web development course offered by Holberton School
 
 ##Intended Audience
 
