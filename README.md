@@ -19,7 +19,12 @@ This project is part of the DevelopHer 2025 program by Holberton School.
 - However, the following requirements must be met: Embed at least one tweet using Twitter’s official embed code. Include a link back to index.html to enable users to return to the homepage. 
 
 #Set Up Styling with CSS
-- Create an empty stylesheet file named styles.css. 
+- Create an empty stylesheet file named styles.css. In each of your HTML files, add those two lines:
+
+<link href="https://apply.holbertonschool.com/level2/school.css" rel="stylesheet">
+<link href="styles.css" rel="stylesheet">
+
+ 
 - In each of your HTML files, add those two lines within the tag:
 - The school.css file is hosted externally and cannot be modified.
 
