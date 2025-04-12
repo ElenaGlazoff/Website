@@ -50,10 +50,9 @@ Include social sharing icons for at least Twitter and Facebook, allowing visitor
 3.6. Enable Disqus Comments
 Integrate Disqus to allow visitors to post comments and engage with your content.
 
-7. Ensure Mobile Compatibility
-The website must be fully responsive and function correctly on smartphones.
+3.7. Ensure Mobile Compatibility. The website must be fully responsive and function correctly on smartphones.
 
-8. Additional Features I Included
-8.1. Embedded an additional tweet using Twitter’s embed code.
+4. Additional Features I Included
+4.1. Embedded an additional tweet using Twitter’s embed code.
 
-8.2. Included a table under section 4 to enhance visual representation and structure.
+4.2. Included a table under section 4 to enhance visual representation and structure.
