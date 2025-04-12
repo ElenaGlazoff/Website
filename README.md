@@ -14,7 +14,7 @@ This website must be built with only HTML/CSS/JavaScript. No NodeJS, React, VueJ
 3.1.1. Create a file named index.html to serve as the main landing page of your website. This page should include the following elements:
 
 At least four paragraphs of meaningful content.
-Proper headings using HTML tags <h1>, <h2>, and <h3> to create a clear content hierarchy.
+Proper headings using HTML tags h1, h2, and h3 to create a clear content hierarchy.
 Clickable image that links to any external URL of your choice.
 
 3.2.  Create a Secondary Page: tweets.html
