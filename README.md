@@ -31,7 +31,7 @@ Set Up Styling with CSS
 '''link href="https://apply.holbertonschool.com/level2/school.css" rel="stylesheet"'''
 '''link href="styles.css" rel="stylesheet"'''
 
- 
+- In the styles.css file, you will write any CSS rules you want to add.
 - In each of your HTML files, add those two lines within the tag:
 - The school.css file is hosted externally and cannot be modified.
 
