@@ -1,4 +1,4 @@
-##Project: "Create Your Own Website"
+##Project Title: "Create Your Own Website"
 
 This project is part of a web development course offered by Holberton School
 
@@ -7,7 +7,7 @@ This project is part of a web development course offered by Holberton School
 This project is designed for:
 Beginners learning web development, particularly HTML, CSS, and basic JavaScript.
 
-##Environment: 
+##Development Environment: 
 
 - Windows
 - PuTTY (for remote access to the server)
@@ -20,7 +20,8 @@ Beginners learning web development, particularly HTML, CSS, and basic JavaScript
 
 ##Important. This website must be built with only HTML/CSS/JavaScript. No use - NodeJS, React, VueJS, Bootstrap, etc.
 
-##Website's address: https://elenaglazoff.github.io/Website/ 
+##Getting Started:
+Website's address: https://elenaglazoff.github.io/Website/ 
 
 ##Purpose and Requirements
 
@@ -70,8 +71,14 @@ Ensure Mobile Compatibility. The website must be fully responsive and function c
 - Ensured full mobile responsiveness, confirming that the site functions smoothly on smartphones and tablets. 
 - Added extra features beyond the core requirements, including: a second embedded tweet. 
 - A structured HTML table to display data effectively.
-Added extra features beyond the core requirements, including:
-A second embedded tweet.
-A structured HTML table to display data effectively.
+  
+##Added extra features beyond the core requirements, including:
+
+- A second embedded tweet.
+- A structured HTML table to display data effectively.
+
+##Troubleshooting:
+
+If the page fails to load correctly, please try refreshing the page.
 
 
