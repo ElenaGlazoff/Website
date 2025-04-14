@@ -9,12 +9,12 @@ Beginners learning web development, particularly HTML, CSS, and basic JavaScript
 
 ##Environment: 
 
-Windows
-PuTTY (for remote access to the server)
-Emacs (text editor)
-HTML
-CSS
-Java
+- Windows
+- PuTTY (for remote access to the server)
+- Emacs (text editor)
+- HTML
+- CSS
+- Java
 
 ##Website Theme Selection. For this project, I have chosen the theme "Cyber Threats in Australia" due to my strong interest in cybersecurity and the growing importance of understanding and addressing cyber risks within the Australian context.
 
