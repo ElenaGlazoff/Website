@@ -9,7 +9,7 @@ Beginners learning web development, particularly HTML, CSS, and basic JavaScript
 
 ##Website Theme Selection. For this project, I have chosen the theme "Cyber Threats in Australia" due to my strong interest in cybersecurity and the growing importance of understanding and addressing cyber risks within the Australian context.
 
-##Important. This website must be built with only HTML/CSS/JavaScript. No NodeJS, React, VueJS, Bootstrap, etc.
+##Important. This website must be built with only HTML/CSS/JavaScript. No use - NodeJS, React, VueJS, Bootstrap, etc.
 
 ##Website's address: https://elenaglazoff.github.io/Website/ 
 
